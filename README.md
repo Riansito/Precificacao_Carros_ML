@@ -52,9 +52,9 @@ Aplicamos **K-Means** para criar clusters de veículos com características seme
 * **Auxiliar na engenharia de features**, permitindo incluir informações de cluster como variável explicativa no modelo de regressão.
 
 Analise dos clusters
-![Avaliação dos Clusters](imagens/avaliacao_clusters.png)
+![Avaliação dos Clusters](Imagens/avaliacao_clusters.png)
 Análise da inercia para identificar os melhor numero de clusters
-![Método Cotovelo](imagens/metodo_cotovelo.png)
+![Método Cotovelo](Imagens/metodo_cotovelo.png)
 
 **Clusters identificados e interpretados:**
 
